@@ -36,7 +36,7 @@ If an enemy is not damaged by Joule for [] Seconds, they will lose all their sta
 
 ## Shift
 
-Joule's Shift lets her dash in a direction, dealing a small amount of damage to enemies hit. Joule can hold the Shift key before releasing to charge it, increasing its travel distance.
+Joule's Shift lets her dash in a direction, dealing a small amount of damage to enemies hit. Joule can hold the Shift key before releasing to charge it, increasing its travel distance, while dashing Joule is briefly invulnerable.
 
 If Joule hits an enemy with her Shift while they are fully stacked by her passive, she consumes the stacks, deals a massive amount of bonus damage, and resets the cooldown of her Shift.
 
@@ -96,13 +96,15 @@ When it comes to the stack-spreading mechanic of Joule's ult, its important to n
 
 Having Ult available allows Joule to play extremely aggressively. It gives her a get-out-of-jail-free card that adds another layer of survivability to her already very mobile kit.
 
-...As a final note, something you should know about Joule's Ult is that, at the time of producing this guide, it is very buggy. Sometimes, it gets cancelled but it doesnt look like it got cancelled, and sometimes it doesnt get cancelled but looks like it did. Sometimes, it doesnt spread stacks properly or evenly to all targets, this seems to happen more often when hitting multiple enemies directly with the recast.
+...As a final note, something you should know about Joule's ult is that, at the time of producing this guide, it is very buggy. Sometimes, it gets cancelled but it doesn't look like it got cancelled, and sometimes it doesn't get cancelled but looks like it did. Sometimes, it doesn't spread stacks properly or evenly to all targets, this seems to happen more often when hitting multiple enemies directly with the recast.
 
-# Shift hitbox
+# Shift deep lore
+
+## The lollipop
 
 Shifts hitbox has two sections, the stick and the lollipop. The stick is drawn from Joule's origin point to her destination point, and is a very thin line. The lollipop creates a much bigger circular hitbox at Joule's destination location.
 
-The stick is extremely thin and difficult to land against moving targets, so against enemies that are not CC'd, your goal should always be to hit them with the lollipop hitbox.
+The stick is pretty thin and can be difficult to land against moving targets, so against enemies that are not CC'd, your goal should be to hit them with the lollipop hitbox.
 
 Now, with this idea in mind, it's important to consider the nature of Joule's Shift when it comes to its travel distance. Because Joule can charge her Shift to extend the distance, that means charging her Shift allows her to control where the lollipop hitbox gets placed. However, Joule's Shift has a minimum travel distance, meaning even if you only tap the Shift key for the smallest possible amount of time, she will still travel that minimum distance.
 
@@ -110,9 +112,33 @@ Put all of these concepts together, and effectively you can imagine that Joule h
 
 This suits Joule's "ebb-and-flow" fighting style, where you play aggressively to start building stacks, and then create a bit of space to get out of that deadzone as the enemy becomes fully stacked. Then, you immediately strike with Shift at its minimum distance, hitting them with the lollipop.
 
-Hitting enemies with the stick is possible of course, just more difficult, but can easily be done from RMB's knock-back or stun, or, more situationally, a knock-back or ground from Q.
+The circular shape not only makes it easier to land on enemies moving laterally, but can be used to extend the range of the dash, wrap the hitbox around small corners, hit multiple targets, and other micro-spacing related tricks that you will eventually pick up on once you start getting experience with placing it in fights.
+
+None of this is to say you should never try and hit people with the stick, however. From any CC such as RMB's knock-back or stun, Q, or any ally CC, hitting them with the stick is fine and often allow your Shift to come out faster as you don't waste time readjusting your position. I just recommend that, when first learning to play Joule, you try and focus on hitting people with the lollipop as it will force you to be more cognizant of its properties while also being generally more forgiving. Once you get more experience with the ability, you will start to know when to use the stick and when to use the lollipop.
+
+Finally, something I didn't say yet is that Shift actually has a third hitbox, a short-lived circular AOE hitbox that is created at Joule's starting point when she releases the Shift key and starts dashing. This hitbox is smaller than her lollipop and really exists mainly as a quality-of-life feature to make it easier to hit enemies directly on top of her. It's small size makes it somewhat niche, but you should be aware that this hitbox exists, and know that in situations where you can take advantage of it, it is very useful.
 
 ## Shift bending
 
-Joule's Shift cannot travel through terrain, so colliding with a wall during the dash will affect its trajectory. If the angle of the wall is shallow enough to the dashing direction, she will slide along the boundary of the terrain while attempting to return to the original dashing trajectory. This allows Joule to bend and curve her shift along and around obstacles.
+Joule's Shift cannot travel through terrain, so colliding with a wall during the dash will affect its trajectory. If the angle of the wall is shallow enough to the dashing direction, she will slide along the boundary of the terrain, which will readjust the direction of the dash. This allows Joule to bend and curve her shift along and around obstacles.
+
+##  Shift charging tech
+
+While charging dash, Joule is considered in the airborne state, even if she casts from standing on the ground. If Joule is airborne when she starts charging, she will remain airborne and retain any horizontal velocity she had when she started charging. Additionally, Joule's vertical velocity is zeroed out while charging.
+
+This means if Joule starts channeling shift while jumping through the air, she will slide slightly while she's charging. It's a pretty subtle amount of movement, but it technically can be used to extend the range of your dash, or to dodge attacks while charging. If Joule can get more horizontal momentum from a different source like a Zeph Shift or a fan, she will slide much further.
+
+Joule can freely rotate her field of view, and subsequently her character model, while charging. This means she can charge her shift for a duration, but change her dash direction at the last moment. This has no tangible effect but it can be used as a mind-game or to catch people off guard and make it harder for them to react to the Shift. This is especially powerful when you have multiple enemy hunters stacked at once and you fake out which of them you go for.
+
+Combining this with the jump-charge-slide can really throw people off, especially against better players that are conditioned to be very cautious of Shift.
+
+## Non-hunter resets
+
+Any non-hunter unit that can receive stacks from Joule's passive can be used as a free reset, either in fights or when just moving around the map. A common tactic early-game fights is to fully stack a nearby camp, and then position yourself in melee range of the camp such that you can perform a fully charged dash through the camp and into an aggressive position that can catch enemies off guard.
+
+Also, if you don't already know, staggering a camp or boss when they have the pink indicator will reset the cooldown of the ability used to stagger them, which can be used to Joule's advantage in the same way that fully stacking a camp would. Just be careful someone doesn't proc the stagger before you do.
+
+This concept applies to camps, bosses, soul crystals, and even BeeBombs.
+
+## Resist the urge to reset like a madman
 
