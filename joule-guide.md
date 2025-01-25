@@ -5,9 +5,11 @@ Hello, and welcome to my Joule guide. This guide is meant to be a definitive res
 
 This guide is good as a starting point for new Joule players but will likely contain information useful to people of any experience level.
 
+Disclaimer: this guide contains a mix of factual knowledge as well as information gathered from my own experience playing and watching Joule. I am not the official Joule expert and there will likely parts of this guide you don't fully agree with. That's ok, I just love this game and I love playing Joule, and this guide came to be from a passion for my desire to learn and improve at the game.
+
 ## Who is Joule?
 
-Joule plays like a burst mage that excels at disrupting backlines and applying relentless pressure. Her high survivability makes her great as a solo-carry that can clean up lobbies with her diverse toolkit, but she also plays well in front-to-back style comps with a more structured play style.
+Joule plays like a burst mage that excels at disrupting backlines and applying strong pressure. Her high survivability makes her great as a solo-carry that can clean up lobbies with her diverse toolkit, but she also plays well in front-to-back style comps with a more structured play style.
 ## Joule pros:
 
 - High damage
@@ -22,9 +24,7 @@ Joule plays like a burst mage that excels at disrupting backlines and applying r
 - High-ish execution barrier
 - Somewhat buggy in her current state
 
-This guide is written as of January 2025, season 0 of the open beta.
-
-Disclaimer: this guide contains a mix of factual knowledge as well as information gathered from my own experience playing and watching Joule. I am not the official Joule expert and there will likely parts of this guide you don't fully agree with. That's ok, I just love this game and I love playing Joule, and this guide came to be from a passion for my desire to learn and improve at the game.
+This guide is written as of Season 0 of the Open Beta.
 
 # Kit overview
 
@@ -122,12 +122,12 @@ Finally, something I didn't say yet is that Shift actually has a third hitbox, a
 
 Joule's Shift cannot travel through terrain, so colliding with a wall during the dash will affect its trajectory. If the angle of the wall is shallow enough to the dashing direction, she will slide along the boundary of the terrain, which will readjust the direction of the dash. This allows Joule to bend and curve her shift along and around obstacles.
 
-##  Shift charging tech
+## Shift charging tech
 
-While charging dash, Joule is considered in the airborne state, even if she casts from standing on the ground. If Joule is airborne when she starts charging, she will remain airborne and retain any horizontal velocity she had when she started charging. Additionally, Joule's vertical velocity is zeroed out while charging.
+If Joule is airborne when she starts charging, she will remain airborne and retain any horizontal velocity she had when she started charging. This means if Joule starts channeling shift while jumping through the air, she will slide. It's a subtle amount of movement, but it technically can be used to extend the range of your dash, or to dodge attacks while charging. If Joule can get more horizontal momentum from a different source like a Zeph Shift or a fan, she can slide much further.
 
-This means if Joule starts channeling shift while jumping through the air, she will slide slightly while she's charging. It's a pretty subtle amount of movement, but it technically can be used to extend the range of your dash, or to dodge attacks while charging. If Joule can get more horizontal momentum from a different source like a Zeph Shift or a fan, she will slide much further.
-
+Additionally, Joule's vertical velocity is zeroed out while charging and dashing. You can shift while extremely low in the abyss to make escapes that are hard for a lot of characters to contest.
+ 
 Joule can freely rotate her field of view, and subsequently her character model, while charging. This means she can charge her shift for a duration, but change her dash direction at the last moment. This has no tangible effect but it can be used as a mind-game or to catch people off guard and make it harder for them to react to the Shift. This is especially powerful when you have multiple enemy hunters stacked at once and you fake out which of them you go for.
 
 Combining this with the jump-charge-slide can really throw people off, especially against better players that are conditioned to be very cautious of Shift.
@@ -138,7 +138,37 @@ Any non-hunter unit that can receive stacks from Joule's passive can be used as 
 
 Also, if you don't already know, staggering a camp or boss when they have the pink indicator will reset the cooldown of the ability used to stagger them, which can be used to Joule's advantage in the same way that fully stacking a camp would. Just be careful someone doesn't proc the stagger before you do.
 
+You can perform the same action on an RMB orb if one happens to be nearby.
+
 This concept applies to camps, bosses, soul crystals, and even BeeBombs.
 
-## Resist the urge to reset like a madman
+## Shift execution & holding stacks
 
+The nature of Joule's kit could be described as "backloaded", in that she first must set up her damage and then later act on her setup to deal damage, which starts the process over again.
+
+From the enemy's point of view, this means Joule starts in a low-threat state, and only becomes threatening once she builds her stacks. However, even if she can successfully consume her stacks with empowered Shift, if the enemy is not killed, despite them likely being very low on health, Joule has now returned to her lower-threat state, forcing her to win another interaction against the enemy to actually kill them.
+
+Let's consider two simple Level 1 scenarios.
+
+Scenario 1: Joule hits enemy Ghost with 4 LMBs, dealing 15% of his health. She procs passive on him with Shift, dealing 70% of his health. She then hits him with 4 more LMBs to deal the remaining 15% health and kills him.
+
+Scenario 2: Joule hits enemy Ghost with 4 LMBs, dealing 15% of his health. Instead of immediately Shifting, she continues to pressure with LMB. Ghost is trying to avoid the empowered Shift, so his DPS against you is lowered and he isn't moving in a way to avoid your LMBs. You land 4 more LMBs to deal another 15%, and then Shift on him to deal the remaining 70%, killing him.
+
+Hopefully you observe that in scenario 2, Ghost had fewer options to counter-play Joule, and Joule had more options. The amount of LMBs and Shifts that she needs to land in both scenarios is the same, but by saving Shift to execute Ghost, she never is put into a situation where she needs to fight without the threat of Shift or in close-quarters, vastly reducing her risk of engagement. It also allows her to wait until the very end to decide whether she wants to commit to using Shift at all, which can save her from accidentally committing to a bad fight.
+
+By keeping the enemy fully stacked and continuing to pressure with LMB, Joule can hold the tension of the skirmish and control the fight on her terms. Being fully stacked puts a heavy mental load on enemy players, giving Joule easy ways to get away with extra DPS and punish obvious mistakes. It also gives her more meaningful mobility options, as she can save her stacked reset for dodging a specific ability or countering an engage, rather than dashing just for the sake of dealing damage.
+
+When you have multiple enemy hunters fully stacked at once (most commonly after ulting a stacked target), you will have a very strong urge to dash around in rapid succession with multiple resets. It looks cool and it feels good to do, but often, for all the reasons mentioned previously, you could get more value if you focus one target at a time, consuming the stacks only to kill each target or to reposition at key moments.
+
+I believe there is a lot of room for micro-optimization when it comes to holding stacks on Joule. Experiment with it in your gameplay to find how it fits into your playstyle.
+
+
+
+
+## Undercasting
+
+this should go in or after combos section
+
+after explaining LMB weaving on RMB, mention that specifically when the enemy is at 2 stacks and hitting the RMB puts them at 3, it can be better to not weave so that you dont put enemy at full stacks; its better to shift in to put them at full then shift out and proc -- leads to much better positioning after reset
+
+in other words, u never want to shift thru orb and also proc passive with a single shift
